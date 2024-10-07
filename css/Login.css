@@ -1,0 +1,64 @@
+form{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: inset;
+    padding: 15px;
+    
+}
+input{
+    font-family: Helvetica;
+    font-size: 17px;
+    padding: 14px;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border-width: 0.5px;
+    border-color: #EBECEE;
+
+}
+button{
+    font-family: Helvetica;
+    font-size: 20px;
+    border-radius: 5px;
+    border-width: 0;
+    line-height: 48px;
+}
+button:hover{
+cursor: pointer;
+}
+button.Login{
+    
+    box-sizing: border-box;
+    width: 100%;
+    background-color: #0866FF;
+    color: white;
+    font-weight: bold;
+    
+
+
+}
+
+button.registrarse{
+    font-size: 15px;
+    background-color: #42B72A;
+    color: white;
+    font-weight: 700;
+    width: 190px;
+}
+
+
+a{
+    text-decoration: none;
+    font-size: 14px;
+    color: #0866FF;
+    padding-bottom: 24px;
+
+
+
+}
+hr{
+    margin-top: 24px;
+    background-color: blue;
+
+
+}
