@@ -10,14 +10,6 @@ font-family: Helvetica, Helvetica, sans-serif;
 
 }
 
-header{
-    
-
-
-}
-main{
-    
-}
 h1{
     color:#0866FF;
     font-size: 60px;
@@ -37,5 +29,19 @@ p{
 
 }
 
+button:hover{
+    cursor: pointer;
+    }
+    button.Login{
+        
+        box-sizing: border-box;
+        width: 100%;
+        background-color: #0866FF;
+        color: white;
+        font-weight: bold;
+        
+    
+    
+    }
 
 
